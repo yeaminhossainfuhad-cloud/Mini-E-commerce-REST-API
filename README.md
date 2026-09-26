@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini E-commerce REST API
 
 A simple e-commerce REST API built with **Django** and **Django REST Framework (DRF)**.
@@ -244,3 +245,6 @@ A ready-made Postman collection is included: `postman_collection.json`.
 - Django REST Framework
 - django-filter
 - SQLite (default; swap `DATABASES` in `settings.py` for Postgres/MySQL in production)
+=======
+# Mini-E-commerce-REST-API
+>>>>>>> 914380f913ea923a637515006d3995fde9a49605
