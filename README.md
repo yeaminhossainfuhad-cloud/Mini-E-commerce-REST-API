@@ -240,16 +240,16 @@ A ready-made Postman collection is included: `postman_collection.json`.
 ## Project Screenshots
 
 ### Categories
-![Categories](screenshot/categories.png)
+![Categories](Screenshot/categories.png)
 
 ### Products
-![Products](screenshot/products.png)
+![Products](Screenshot/products.png)
 
 ### Orders
-![Orders](screenshot/orders.png)
+![Orders](Screenshot/orders.png)
 
 ### Administration
-![Admin](screenshot/admin.png)
+![Admin](Screenshot/admin.png)
 
 ## Tech stack
 
