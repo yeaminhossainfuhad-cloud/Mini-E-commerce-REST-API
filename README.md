@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mini E-commerce REST API
 
 A simple e-commerce REST API built with **Django** and **Django REST Framework (DRF)**.
@@ -64,7 +63,7 @@ ecommerce_project/
 ### 1. Clone the repository and create a virtual environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yeaminhossainfuhad-cloud/Mini-E-commerce-REST-API.git
 cd ecommerce_project
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
@@ -238,6 +237,20 @@ A ready-made Postman collection is included: `postman_collection.json`.
 4. Run any of the other requests — they'll automatically use
    `Authorization: Token {{token}}`.
 
+## Project Screenshots
+
+### Categories
+![Categories](screenshot/categories.png)
+
+### Products
+![Products](screenshot/products.png)
+
+### Orders
+![Orders](screenshot/orders.png)
+
+### Administration
+![Admin](screenshot/admin.png)
+
 ## Tech stack
 
 - Python 3
@@ -245,6 +258,12 @@ A ready-made Postman collection is included: `postman_collection.json`.
 - Django REST Framework
 - django-filter
 - SQLite (default; swap `DATABASES` in `settings.py` for Postgres/MySQL in production)
-=======
-# Mini-E-commerce-REST-API
->>>>>>> 914380f913ea923a637515006d3995fde9a49605
+
+## Author
+
+**Md Yeamin Hossain Fuhad**
+
+- Diploma in Engineering in Computer Science & Technology
+- B.Sc. in Computer Science & Engineering 
+- Interested in **SQA, Python/Django Development, and IT Support**
+
